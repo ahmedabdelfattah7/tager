@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "983337077015",
+    "project_id": "tager-ee368",
+    "storage_bucket": "tager-ee368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983337077015:android:f3c9f6299cf207372d4f52",
+        "android_client_info": {
+          "package_name": "com.tager.tager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983337077015-e40ljrkngcn3k76agpeqt8tiqk0o4i3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tager.tager",
+            "certificate_hash": "e5afe883fc969d2c15b8cd7be9804490b1d6ea48"
+          }
+        },
+        {
+          "client_id": "983337077015-3i10h0ckv1qk9bvt9djaentlbgbu34gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVcokng7UAoA7R8oi7GtBrh0vOciYrO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983337077015-3i10h0ckv1qk9bvt9djaentlbgbu34gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983337077015-o2v0luno9q63eueejvf6hvsd178ee7dp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tager.tager.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
